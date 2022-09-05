@@ -1,3 +1,5 @@
+#Primeiro desafio - Criar um Quiz e imprimir o total de pontuação acertado no final.
+
 print("No Python, como se chama uma 'caixa' usada para armazenar dados?")
 
 score = 0

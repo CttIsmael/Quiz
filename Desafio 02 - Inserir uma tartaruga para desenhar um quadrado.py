@@ -1,3 +1,5 @@
+#Desafio 02 - Inserir uma figura de tarturaga para desenhar um quadrado.
+
 from turtle import *
 shape ("turtle")
 speed(1)
